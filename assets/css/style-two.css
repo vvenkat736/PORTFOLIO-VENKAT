@@ -380,14 +380,14 @@ footer a {
 }
 
 .footer__theme1 {
-  color: #12bdff;
+  color: #ff580a;
   background-color: transparent;
-  border: 1px solid #12bdff;
+  border: 1px solid #a04800;
   transition: all 0.5s ease 0s;
 }
 
 .footer__theme1:hover {
-  background-color: #12bdff;
+  background-color: #f3bf13;
   color: #fff;
   transition: all 0.5s ease 0s;
 }
@@ -406,20 +406,20 @@ footer a {
 }
 
 .footer__theme3 {
-  color: #ff29e4;
+  color: #1e06f5;
   background-color: transparent;
-  border: 1px solid #ff29e4;
+  border: 1px solid #20b5fa;
   transition: all 0.5s ease 0s;
 }
 
 .footer__theme3:hover {
-  background-color: #ff29e4;
+  background-color: #1c0df3;
   color: #fff;
   transition: all 0.5s ease 0s;
 }
 
 .active-theme {
-  background-color: #ff5555;
+  background-color: #e60303;
   color: white;
 }
 
@@ -522,12 +522,12 @@ footer a {
 .business-card-front {
   background-color: #fff;
   color: #333;
-  border: 2px solid #007bff;
+  border: 2px solid #cf1c1c;
 }
 
 /* Back Side */
 .business-card-back {
-  background-color: #007bff;
+  background-color: #da4019;
   color: white;
   transform: rotateY(180deg);
 }
